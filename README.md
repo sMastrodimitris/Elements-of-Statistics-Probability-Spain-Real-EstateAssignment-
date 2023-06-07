@@ -2,6 +2,7 @@
 A simple data manipulation and presentation problem in R for the preperatory course Elements of Statistics &amp; Probability of my Master Degree in Data Science
 
 The files in this repository contain:
+
     -R exercise: The pdf explains the data and the assignment deliverables
     -spain2005: In this csv are contained the 
     -1-15: This R file is all the code used to execute the assignment deliverables
